@@ -13,3 +13,5 @@ Weather using AccuWeather API
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/weather/HEAD?filepath=index_list.ipynb) List of indices
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/weather/HEAD?filepath=index_groups.ipynb) List of index groups
+
