@@ -15,3 +15,5 @@ Weather using AccuWeather API
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/weather/HEAD?filepath=index_groups.ipynb) List of index groups
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/weather/HEAD?filepath=indices_5_day.ipynb) Single index forecast for 5 days
+
