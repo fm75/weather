@@ -11,3 +11,5 @@ Weather using AccuWeather API
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/weather/HEAD?filepath=forecast_12_hour.ipynb) 12 Hour Forecast
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/weather/HEAD?filepath=index_list.ipynb) List of indices
+
